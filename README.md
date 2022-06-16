@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean
 - 👀 I’m interested in iOs Develeopment and motorcyles(MotoGP)
-- 🌱 I’m currently learning Swift
+- 📖 I’m currently learning Swift Combine
 - 💞️ I’m looking to collaborate on Swift Projects
 - 📫 How to reach me sean@fiv4lab.com
 - 🦉twitter @Sean111Blake
