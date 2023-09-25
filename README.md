@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sean
-- 👀 I’m interested in iOs Develeopment and motorcyles(MotoGP)
-- 📖 I’m currently learning Swift Combine
+- 👀 I’m interested in iOs development and have a love for motorcycles
+- 📖 I’m currently learning Swift/ iOS
 - 💞️ I’m looking to collaborate on Swift Projects
-- 📫 How to reach me sean@fiv4lab.com
-- 🦉twitter @Sean111Blake
+- 📫 How to reach me sean.blake97@outlook.com
+- X x @Sean111Blake
 
 <!---
 seanB888/seanB888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
