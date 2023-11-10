@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOs development and have a love for motorcycles
 - 📖 I’m currently learning Swift/ iOS
 - 💞️ I’m looking to collaborate on Swift Projects
-- 📫 How to reach me sean.blake97@outlook.com
+- 📫 How to reach me hi@seanblake.info
 - X x @Sean111Blake
 
 <!---
